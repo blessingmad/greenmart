@@ -81,7 +81,7 @@ $result = mysqli_query($conn, $query);
 
 
 <!-- Featured Products Section -->
-<h2>Featured Products</h2>
+<h2>Feature Products</h2>
 <!-- products listing -->
 <div class="products">
     
